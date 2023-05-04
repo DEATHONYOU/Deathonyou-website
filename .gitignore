@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+index.html
+main-webpage-icon.png
+style.css
+.vscode/launch.json
+index.html
